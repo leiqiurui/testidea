@@ -9,6 +9,6 @@ package com.bjpowernode.git;
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("bbb本地333hello leiqiu来来来了李四");
+        System.out.println("dev1mybranchmasterbbb本地333hello leiqiu来来来了李四");
     }
 }
